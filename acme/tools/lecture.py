@@ -9,3 +9,9 @@ L'outil doit afficher la structure du dossier et indiquer le nombre de fichiers 
 
 def parcourir_dossier(dossier):
     return 0
+
+def liste_par_an(dossier):
+    return 0
+
+def liste_par_mois(dossier):
+    return 0
